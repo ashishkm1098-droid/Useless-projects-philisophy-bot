@@ -1,0 +1,46 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> THE HOLY KEANU</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>THE HOLY KEANU </h1>
+    <button id="getPlus"></button>
+  </header>
+
+  <main>
+    <img src="{{ url_for('static' , filename='keanu.png')}}" alt="The Holy Keanu" class="keanu"/>
+
+  <h2>Ready when you are.</h2>
+  <div class="input-container">
+    <input type="text" id="userInput" placeholder="Ask anything" />
+    <div class="tools">
+      <button title="Tools">⚙️ Tools</button>
+    </div>
+    <div class="actions">
+      <button title="Microphone">🎤</button>
+      <button title="Audio">📶</button>
+    </div>
+  </div>
+
+  <div id="responseBox" class="response-box"></div>
+</main>
+
+  <script src="script.js"></script>
+  <audio id="bg-music" autoplay loop>
+  <source src="/static/Holy Is He - Choir and Orchestra.mp3" type="audio/mp3" />
+  Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+
+
+
+
