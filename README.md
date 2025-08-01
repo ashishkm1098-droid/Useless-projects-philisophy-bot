@@ -81,6 +81,8 @@ keanu-philosopher/
 │   └── keanu_ai.py     # Gemini API integration
 └── requirements.txt    # Flask, requests, pyttsx3, etc.
 
+---
+
 ## 🎥 Project Demo
 🔗 Video
 [Add your demo video link here]
