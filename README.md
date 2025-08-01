@@ -48,7 +48,7 @@ We built a web-based chatbot inspired by the deepest Keanus and most confused ph
 - **Frameworks:** Flask  
 - **APIs:** Google Gemini API  
 - **Libraries:** `requests`, `pyttsx3` *(optional)*  
-- **Tools:** VS Code, GitHub, Postman
+- **Tools:** VS Code, GitHub, Postman, chatgpt,deepseek
 
 ### Hardware:
 - A keyboard  
