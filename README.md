@@ -115,18 +115,16 @@ Open your browser at: `http://127.0.0.1:5000`
 ## 📁 Project Structure
 
 ```
-keanu-philosopher/
-├── app.py              # Flask backend
+ORACLE/
 ├── static/
-│   ├── style.css       # Frontend styling
-│   └── script.js       # Handles form input/output
+│   └── keanu.png               # Background image or avatar image
 ├── templates/
-│   └── index.html      # Frontend interface
-├── utils/
-│   └── keanu_ai.py     # Gemini API wrapper
-├── .env                # API key config
-├── requirements.txt    # Dependencies
-└── README.md           # You're reading this!
+│   └── index.html              # Main ChatGPT-style UI
+├── app.py                      # Flask app entry point
+├── ORACLE.py                   # Logic for the philosophical quote generation
+├── requirements.txt            # All necessary Python packages
+├── script.js                   # JS for user input handling
+├── style.css                   # Styling for the UI
 ```
 
 ---
