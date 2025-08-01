@@ -82,7 +82,7 @@ GEMINI_API_KEY=your_api_key_here
 ### 4. Run the App
 
 ```bash
-export FLASK_APP=app.py
+export FLASK_APP=holy_keanu.py
 flask run
 ```
 
