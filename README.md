@@ -94,21 +94,38 @@ Open your browser at: `http://127.0.0.1:5000`
 
 > (Replace placeholder links with your actual images)
 
-![Screenshot1](add-link-here)
+![Screenshot1](https://github.com/ashishkm1098-droid/Useless-projects-philisophy-bot/blob/main/WhatsApp%20Image%202025-08-01%20at%2021.26.17_39def2d2.jpg)
 *Landing page with existential encouragement.*
 
-![Screenshot2](add-link-here)
+![Screenshot2]([WhatsApp Image 2025-08-01 at 21 29 48_2932a9e9](https://github.com/user-attachments/assets/d65ebb9c-d2c0-419c-ac53-09407f19164d))
 *User asks something technical. Bot replies with spiritual clarity.*
-
-![Screenshot3](add-link-here)
-*Pure wisdom that makes absolutely no sense.*
-
 ---
 
 ## 🧭 Architecture Diagram
 
-![Workflow](add-your-diagram-here)
-*Frontend → Flask → Gemini API → Cryptic response → Enlightenment*
+![Workflow]
+(User (Browser)
+   │
+   ▼
+[1] Enters a question in chat box (HTML/CSS/JS frontend)
+   │
+   ▼
+[2] JavaScript sends the input to Flask backend via POST request (AJAX/fetch)
+   │
+   ▼
+[3] Flask backend receives the message
+   │
+   ▼
+[4] Flask sends it as a prompt to Google Gemini API
+   │
+   ▼
+[5] Gemini returns a philosophical (and useless) response
+   │
+   ▼
+[6] Flask sends this response back to the frontend
+   │
+   ▼
+[7] JavaScript updates the UI to show "Holy Keanu’s" response)
 
 ---
 
