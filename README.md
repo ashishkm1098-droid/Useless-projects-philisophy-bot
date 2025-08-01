@@ -97,7 +97,7 @@ Open your browser at: `http://127.0.0.1:5000`
 ![Screenshot1](https://github.com/ashishkm1098-droid/Useless-projects-philisophy-bot/blob/main/WhatsApp%20Image%202025-08-01%20at%2021.29.48_2932a9e9.jpg)
 *Landing page with existential encouragement.*
 
-![Screenshot2]([WhatsApp Image 2025-08-01 at 21 29 48_2932a9e9](https://github.com/user-attachments/assets/d65ebb9c-d2c0-419c-ac53-09407f19164d))
+![Screenshot2](https://github.com/ashishkm1098-droid/Useless-projects-philisophy-bot/blob/main/WhatsApp%20Image%202025-08-01%20at%2021.29.48_2932a9e9.jpg)
 *User asks something technical. Bot replies with spiritual clarity.*
 ---
 
