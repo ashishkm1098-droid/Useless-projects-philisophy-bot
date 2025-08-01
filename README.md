@@ -1,7 +1,7 @@
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-# 🧘‍♂️ Keanu Philosopher 🎯
+# 🧘‍♂️ Holy Keanu 🎯
 
 > *"I don't know the answer. But... whoa." — Keanu, probably*
 
@@ -9,7 +9,7 @@
 
 ## 🧠 Project Description
 
-**Keanu Philosopher** is a gloriously unhelpful AI chatbot that offers deep, vague, and often hilariously cryptic philosophical advice powered by Google’s **Gemini API**. It has a sleek frontend built with HTML/CSS/JavaScript, and a Flask backend that delivers timeless wisdom (and nothing useful).
+**Holy Keanu** is a gloriously unhelpful AI chatbot that offers deep, vague, and often hilariously cryptic philosophical advice powered by Google’s **Gemini API**. It has a sleek frontend built with HTML/CSS/JavaScript, and a Flask backend that delivers timeless wisdom (and nothing useful).
 
 You ask questions — Keanu *responds with vibes*.
 
@@ -61,8 +61,8 @@ We built a web-based chatbot inspired by the deepest Keanus and most confused ph
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/keanu-philosopher.git
-cd keanu-philosopher
+git clone https://github.com/yourusername/holy-keanu.git
+cd holy-keanu
 ````
 
 ### 2. Install Dependencies
