@@ -147,8 +147,8 @@ ORACLE/
 ---
 
 ## 🎥 Demo Video
+[Add your demo video link here]
 
-(https://github.com/ashishkm1098-droid/Useless-projects-philisophy-bot/blob/9725d87710d9389ec5638cc71ee3e1e9ab2b7f0f/02.08.2025_05.05.25_REC.mp4)
 *A user experiences both confusion and enlightenment in real time.*
 
 ---
