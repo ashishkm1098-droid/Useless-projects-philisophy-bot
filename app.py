@@ -161,5 +161,7 @@ if __name__ == '__main__':
     print("Ask about life, existence, meaning, or any deep question...")
     print("Remember: Be excellent to each other! 🤙")
     print("=" * 60)
+    app.run(host='0.0.0.0', port=10000)
     
-    app.run(debug=True, port=5000, host='0.0.0.0')
+    
+
