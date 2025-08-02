@@ -6,6 +6,9 @@
 > *"I don't know the answer. But... whoa." — Keanu, probably*
 
 ---
+🌐 *Live Demo*: [https://holy-keanu.onrender.com](https://holy-keanu.onrender.com)
+
+---
 
 ## 🧠 Project Description
 
@@ -147,6 +150,7 @@ ORACLE/
 ---
 
 ## 🎥 Demo Video
+
 https://youtu.be/YFzscR0-E6c
 
 *A user experiences both confusion and enlightenment in real time.*
